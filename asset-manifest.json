@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/la-victoria-fundacion/static/css/main.81e54d24.css",
-    "main.js": "/la-victoria-fundacion/static/js/main.f51153e0.js",
-    "static/js/453.2e6bc970.chunk.js": "/la-victoria-fundacion/static/js/453.2e6bc970.chunk.js",
-    "static/media/videoPromo1.mp4": "/la-victoria-fundacion/static/media/videoPromo1.c6632861194b85c8c87e.mp4",
+    "main.css": "/la-victoria-fundacion/static/css/main.2cfe848d.css",
+    "main.js": "/la-victoria-fundacion/static/js/main.00a1bea4.js",
+    "static/js/453.442d5423.chunk.js": "/la-victoria-fundacion/static/js/453.442d5423.chunk.js",
+    "static/media/videoPropaganda2.mp4": "/la-victoria-fundacion/static/media/videoPropaganda2.05f7b1bff70f2cdbbf96.mp4",
     "static/media/arteLaptop.png": "/la-victoria-fundacion/static/media/arteLaptop.dc957b6b2ba792bab3bc.png",
     "static/media/artePantallaGrande.png": "/la-victoria-fundacion/static/media/artePantallaGrande.58b84a3adb572910a6fd.png",
     "static/media/arteTablet.png": "/la-victoria-fundacion/static/media/arteTablet.dd7267c1bd3172fb866b.png",
     "static/media/laVictoriaLogo.png": "/la-victoria-fundacion/static/media/laVictoriaLogo.c5bf7f9ad37958dd193d.png",
-    "static/media/grupoJovenes.png": "/la-victoria-fundacion/static/media/grupoJovenes.f7fa28b6b32ac08d1428.png",
+    "static/media/niños.jpg": "/la-victoria-fundacion/static/media/niños.6052180cfaf7003379fb.jpg",
+    "static/media/niñas.jpg": "/la-victoria-fundacion/static/media/niñas.5f3a1120eb1b99311684.jpg",
+    "static/media/7.png": "/la-victoria-fundacion/static/media/7.90b6daf057b49d0a26e8.png",
+    "static/media/6.png": "/la-victoria-fundacion/static/media/6.0fef8236a0237f0ce27d.png",
+    "static/media/5.png": "/la-victoria-fundacion/static/media/5.6c786a04da907325b93c.png",
+    "static/media/fondoQuienesSomos.jpg": "/la-victoria-fundacion/static/media/fondoQuienesSomos.f64b3f74cc9e5ab99866.jpg",
+    "static/media/fondoProgramas.jpg": "/la-victoria-fundacion/static/media/fondoProgramas.a4a6f0873f4d07af24d0.jpg",
     "static/media/arteCelular.png": "/la-victoria-fundacion/static/media/arteCelular.324648c0ac4af5eba0fa.png",
     "static/media/logo.svg": "/la-victoria-fundacion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/la-victoria-fundacion/index.html",
-    "main.81e54d24.css.map": "/la-victoria-fundacion/static/css/main.81e54d24.css.map",
-    "main.f51153e0.js.map": "/la-victoria-fundacion/static/js/main.f51153e0.js.map",
-    "453.2e6bc970.chunk.js.map": "/la-victoria-fundacion/static/js/453.2e6bc970.chunk.js.map"
+    "main.2cfe848d.css.map": "/la-victoria-fundacion/static/css/main.2cfe848d.css.map",
+    "main.00a1bea4.js.map": "/la-victoria-fundacion/static/js/main.00a1bea4.js.map",
+    "453.442d5423.chunk.js.map": "/la-victoria-fundacion/static/js/453.442d5423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81e54d24.css",
-    "static/js/main.f51153e0.js"
+    "static/css/main.2cfe848d.css",
+    "static/js/main.00a1bea4.js"
   ]
 }
