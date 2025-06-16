@@ -4,6 +4,8 @@ import NavBar from './components/NavBar';
 import VideoExampleComp from './components/VideoExampleComp';
 import ResponsiveCarousel from './components/ResponsiveCarousel';
 import About from './components/About';
+import Programas from './components/Programas';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <VideoExampleComp/>
       <ResponsiveCarousel/>
       <About/>
+      <Programas/>
+      <Contact/>
       
     </div>
   );

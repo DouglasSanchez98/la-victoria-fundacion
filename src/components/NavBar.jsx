@@ -32,7 +32,7 @@ const NavBar = () => {
         },
         {
             id: 3,
-            link: 'quehacemos',
+            link: 'programas',
             child: (
                 <>
 
@@ -70,7 +70,7 @@ const NavBar = () => {
                 <>
 
                     <div className='border border-yellow-one border-solid rounded p-1'>
-                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación Danielito" element='text' >
+                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación La Victoria" element='text' >
                             <p className="cursor-pointer m-1 ">Donar</p>
                         </ReactWhatsapp>
                     </div>
@@ -84,7 +84,7 @@ const NavBar = () => {
                 <>
 
                     <div className='border border-yellow-one border-solid rounded p-1 bg-yellow-one'>
-                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación Danielito" element='text' >
+                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación La Victoria" element='text' >
                             <p className="cursor-pointer m-1 text-white ">Hazte Socio</p>
                         </ReactWhatsapp>
                     </div>
@@ -97,9 +97,7 @@ const NavBar = () => {
             child: (
                 <>
                     <div className='border border-yellow-one border-solid rounded p-1'>
-                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación Danielito" element='text' >
                             <p className="cursor-pointer m-1 ">Contacto</p>
-                        </ReactWhatsapp>
                     </div>
                 </>
             ),
