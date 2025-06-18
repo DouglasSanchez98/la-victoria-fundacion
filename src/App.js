@@ -6,6 +6,8 @@ import ResponsiveCarousel from './components/ResponsiveCarousel';
 import About from './components/About';
 import Programas from './components/Programas';
 import Contact from './components/Contact';
+import Donaciones from './components/Donaciones';
+import Impacto from './components/Impacto';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <ResponsiveCarousel/>
       <About/>
       <Programas/>
+      <Donaciones/>
+      <Impacto/>
       <Contact/>
       
     </div>

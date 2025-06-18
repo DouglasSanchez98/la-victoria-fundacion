@@ -52,52 +52,30 @@ const NavBar = () => {
                 </>
             ),
         },
-        {
+        
+         {
             id: 5,
-            link: 'comoayudar',
+            link: 'donaciones',
             child: (
                 <>
 
-                    <p className="cursor-pointer m-1">cómo ayudar</p>
-
+                    <div className='border border-yellow-one border-solid rounded p-1'>
+                            <p className="cursor-pointer m-1 ">Donar</p>
+                       
+                    </div>
                 </>
             ),
-        },
-         {
+        }, 
+        {
             id: 6,
             
             child: (
                 <>
-
                     <div className='border border-yellow-one border-solid rounded p-1'>
-                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación La Victoria" element='text' >
-                            <p className="cursor-pointer m-1 ">Donar</p>
-                        </ReactWhatsapp>
-                    </div>
-                </>
-            ),
-        },
-          {
-            id: 7,
-            
-            child: (
-                <>
+                             <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación La Victoria" element='text' >
 
-                    <div className='border border-yellow-one border-solid rounded p-1 bg-yellow-one'>
-                        <ReactWhatsapp number="+59165069109" message="Saludos necesito Información sobre la Fundación La Victoria" element='text' >
-                            <p className="cursor-pointer m-1 text-white ">Hazte Socio</p>
-                        </ReactWhatsapp>
-                    </div>
-                </>
-            ),
-        },
-        {
-            id: 8,
-            link: 'contacto',
-            child: (
-                <>
-                    <div className='border border-yellow-one border-solid rounded p-1'>
                             <p className="cursor-pointer m-1 ">Contacto</p>
+                             </ReactWhatsapp>
                     </div>
                 </>
             ),
@@ -105,7 +83,7 @@ const NavBar = () => {
     ]
     return (
         <div className='flex  justify-between items-center w-full h-20
-         px-4 text-white bg-white-silver fixed z-10'>
+         px-4 text-white bg-white-silver fixed z-20'>
             <div className="h-full">
                 <img src={logofundacion} alt="Logo Fundación Danielito"
                     className="pt-2 rounded-2xl mx-auto md:h-18 h-20"></img>
@@ -131,10 +109,10 @@ const NavBar = () => {
             </div>
             {nav && (
 
-                <ul className='flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500 '>
+                <ul className='flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500'>
                     {links.map(({ id, link, child }) => (
 
-                        <li key={id} className='px-4 cursor-pointer capitalize py-6 text-4xl'>
+                        <li key={id} className='px-4 cursor-pointer capitalize py-6 text-4xl '>
 
                             <Link onClick={() => setNav(!nav)} to={link} smooth duration={500}>
                                 {child}

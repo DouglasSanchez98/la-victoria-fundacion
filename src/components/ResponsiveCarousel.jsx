@@ -9,7 +9,9 @@ import imgMobile1 from '../assets/arteCelular.png'
 import imgTablet1 from '../assets/arteTablet.png'
 import imgLaptop1 from '../assets/arteLaptop.png'
 import imgDesktop1 from '../assets/artePantallaGrande.png'
-
+import banner1 from '../assets/banner1.png'
+import banner2 from '../assets/banner2.png'
+import banner3 from '../assets/banner3.png'
 //import carrusel1 from '../assets/carrusel1.png'
 //import carrusel2 from '../assets/carrusel2.png'
 //import carrusel3 from '../assets/carrusel3.png'
@@ -17,33 +19,27 @@ import imgDesktop1 from '../assets/artePantallaGrande.png'
 
 const slides = [
   {
-    mobile: imgMobile1,
-    tablet: imgTablet1,
-    laptop: imgLaptop1,
-    desktop: imgDesktop1,
+    mobile: banner1,
+    tablet: banner1,
+    laptop: banner1,
+    desktop: banner1,
     alt: 'Banner 1',
   },
   {
-    mobile: imgMobile1,
-    tablet: imgTablet1,
-    laptop: imgLaptop1,
-    desktop: imgDesktop1,
+    mobile: banner2,
+    tablet: banner2,
+    laptop: banner2,
+    desktop: banner2,
     alt: 'Banner 2',
   },
   {
-    mobile: imgMobile1,
-    tablet: imgTablet1,
-    laptop: imgLaptop1,
-    desktop: imgDesktop1,
+    mobile: banner3,
+    tablet: banner3,
+    laptop: banner3,
+    desktop: banner3,
     alt: 'Banner 3',
   },
-  {
-    mobile: imgMobile1,
-    tablet: imgTablet1,
-    laptop: imgLaptop1,
-    desktop: imgDesktop1,
-    alt: 'Banner 4',
-  },
+  
 ]
 
 export default function ResponsiveCarousel() {
