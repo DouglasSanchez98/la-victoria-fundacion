@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/la-victoria-fundacion/static/css/main.db3531c8.css",
-    "main.js": "/la-victoria-fundacion/static/js/main.81b049d6.js",
+    "main.css": "/la-victoria-fundacion/static/css/main.1c4a92c1.css",
+    "main.js": "/la-victoria-fundacion/static/js/main.267a9b2d.js",
     "static/js/453.442d5423.chunk.js": "/la-victoria-fundacion/static/js/453.442d5423.chunk.js",
     "static/media/videoPropaganda2.mp4": "/la-victoria-fundacion/static/media/videoPropaganda2.05f7b1bff70f2cdbbf96.mp4",
     "static/media/banner2.png": "/la-victoria-fundacion/static/media/banner2.be172378c2fe5e79fafb.png",
-    "static/media/banner3.png": "/la-victoria-fundacion/static/media/banner3.83ff3f78faee12e08161.png",
-    "static/media/arteLaptop.png": "/la-victoria-fundacion/static/media/arteLaptop.dc957b6b2ba792bab3bc.png",
-    "static/media/artePantallaGrande.png": "/la-victoria-fundacion/static/media/artePantallaGrande.58b84a3adb572910a6fd.png",
-    "static/media/arteTablet.png": "/la-victoria-fundacion/static/media/arteTablet.dd7267c1bd3172fb866b.png",
+    "static/media/banner4.png": "/la-victoria-fundacion/static/media/banner4.5ddc294441000bea6fc0.png",
+    "static/media/banner3.png": "/la-victoria-fundacion/static/media/banner3.55502ab598b86a1be1d9.png",
     "static/media/banner1.png": "/la-victoria-fundacion/static/media/banner1.f4971d88817915462f5d.png",
     "static/media/laVictoriaLogo.png": "/la-victoria-fundacion/static/media/laVictoriaLogo.c5bf7f9ad37958dd193d.png",
     "static/media/almuerzo.jpg": "/la-victoria-fundacion/static/media/almuerzo.c9bce146df8765d6073b.jpg",
@@ -18,6 +16,7 @@
     "static/media/entregaViveres.jpg": "/la-victoria-fundacion/static/media/entregaViveres.c28190ae47c399c089ae.jpg",
     "static/media/entregaPoleras.jpg": "/la-victoria-fundacion/static/media/entregaPoleras.12b886e34489dfc18896.jpg",
     "static/media/niños.jpg": "/la-victoria-fundacion/static/media/niños.6052180cfaf7003379fb.jpg",
+    "static/media/qrDonacionCortado.jpg": "/la-victoria-fundacion/static/media/qrDonacionCortado.a32e504a1dbb8001aa64.jpg",
     "static/media/grupoJovenes.png": "/la-victoria-fundacion/static/media/grupoJovenes.f7fa28b6b32ac08d1428.png",
     "static/media/entregaNavidad.jpg": "/la-victoria-fundacion/static/media/entregaNavidad.ac6f34ff510aaca583e1.jpg",
     "static/media/revisionMédica.jpg": "/la-victoria-fundacion/static/media/revisionMédica.e637ecf763cec9346de2.jpg",
@@ -28,15 +27,14 @@
     "static/media/fondoQuienesSomos.jpg": "/la-victoria-fundacion/static/media/fondoQuienesSomos.f64b3f74cc9e5ab99866.jpg",
     "static/media/fondoProgramas.jpg": "/la-victoria-fundacion/static/media/fondoProgramas.a4a6f0873f4d07af24d0.jpg",
     "static/media/fondoImpacto.jpg": "/la-victoria-fundacion/static/media/fondoImpacto.cbcbd767fad9e78c838c.jpg",
-    "static/media/arteCelular.png": "/la-victoria-fundacion/static/media/arteCelular.324648c0ac4af5eba0fa.png",
     "static/media/logo.svg": "/la-victoria-fundacion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/la-victoria-fundacion/index.html",
-    "main.db3531c8.css.map": "/la-victoria-fundacion/static/css/main.db3531c8.css.map",
-    "main.81b049d6.js.map": "/la-victoria-fundacion/static/js/main.81b049d6.js.map",
+    "main.1c4a92c1.css.map": "/la-victoria-fundacion/static/css/main.1c4a92c1.css.map",
+    "main.267a9b2d.js.map": "/la-victoria-fundacion/static/js/main.267a9b2d.js.map",
     "453.442d5423.chunk.js.map": "/la-victoria-fundacion/static/js/453.442d5423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db3531c8.css",
-    "static/js/main.81b049d6.js"
+    "static/css/main.1c4a92c1.css",
+    "static/js/main.267a9b2d.js"
   ]
 }
