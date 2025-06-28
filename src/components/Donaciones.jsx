@@ -1,5 +1,6 @@
 import React from 'react';
-import imagenDonacion from '../assets/laVictoriaLogo.png'; // Cambia esto por tu imagen real
+import imagenDonacion from '../assets/qrDonacionCortado.jpg'; // Cambia esto por tu imagen real
+import ReactWhatsapp from 'react-whatsapp';
 
 const Donaciones = () => {
   return (
@@ -21,9 +22,14 @@ const Donaciones = () => {
         {/* Columna de datos bancarios */}
         <div className="flex flex-col justify-center bg-white rounded-lg shadow-lg p-6">
           <h2 className="text-2xl font-semibold text-blue-700 mb-4">Datos para Donaciones</h2>
-          <p className="text-gray-800 mb-2"><strong>Banco:</strong> Banco Unión</p>
-          <p className="text-gray-800 mb-2"><strong>Número de cuenta:</strong> 1234567890123456</p>
-          <p className="text-gray-800 mb-2"><strong>Nombre del titular:</strong> Fundación La Victoria</p>
+          <p className="text-gray-800 mb-2"><strong>Banco:</strong> Banco Sol</p>
+          <p className="text-gray-800 mb-2"><strong>Número de cuenta:</strong> 388771000003</p>
+          <p className="text-gray-800 mb-2"><strong>Nombre del titular:</strong> Lidia Mamani Ramirez</p>
+
+          <ReactWhatsapp number="+59165069109" message="Saludos quisiera apoyar con esta donación" element='text' >
+           <p className="cursor-pointer text-gray-800 mb-2 hover:scale-105 duration-200"><strong>Enviar Comprobante:</strong>+59165069109</p>
+          </ReactWhatsapp>
+
         </div>
         
       </div>

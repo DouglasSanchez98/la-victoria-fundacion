@@ -5,16 +5,12 @@ import 'swiper/css/pagination'
 
 import { Navigation, Autoplay,Pagination,Scrollbar } from 'swiper/modules'
 
-import imgMobile1 from '../assets/arteCelular.png'
-import imgTablet1 from '../assets/arteTablet.png'
-import imgLaptop1 from '../assets/arteLaptop.png'
-import imgDesktop1 from '../assets/artePantallaGrande.png'
+
 import banner1 from '../assets/banner1.png'
 import banner2 from '../assets/banner2.png'
 import banner3 from '../assets/banner3.png'
-//import carrusel1 from '../assets/carrusel1.png'
-//import carrusel2 from '../assets/carrusel2.png'
-//import carrusel3 from '../assets/carrusel3.png'
+import banner4 from '../assets/banner4.png'
+
 
 
 const slides = [
@@ -38,6 +34,13 @@ const slides = [
     laptop: banner3,
     desktop: banner3,
     alt: 'Banner 3',
+  },
+  {
+    mobile: banner4,
+    tablet: banner4,
+    laptop: banner4,
+    desktop: banner4,
+    alt: 'Banner 4',
   },
   
 ]

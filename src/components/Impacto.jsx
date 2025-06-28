@@ -5,12 +5,14 @@ import fondo from '../assets/fondoImpacto.jpg';
 import CountUp from 'react-countup';
 
 const stats = [
-  { value: 700, label: 'Llamadas/chats al día' },
-  { value: 256263, label: 'Peticiones de Ayuda en 2023' },
-  { value: 18893, label: 'Casos atendidos en 2023' },
-  { value: 2220, label: 'Niños/as acogidos en nuestros Hogares desde 1970' },
-  { value: 197572, label: 'Alumnos, profesionales y familias formados en Colegios e Institutos desde 2003' },
-  { value: 6.5, suffix: ' mill', label: 'Peticiones de Ayuda atendidas en el Teléfono y Chat desde 1994' },
+  { value: 528, label: 'Participantes recibieron apoyo integral en 2024' },
+  { value: 80, label: 'Jovenes participaron del campamento en 2024' },
+  { value: 20, label: 'Participantes recibieron capacitación técnica en diversas áreas' },
+  { value: 431, label: 'Participantes recibieron poleras de la Fundación' },
+  { value: 452, label: 'Participantes recibieron material escolar' },
+  { value: 65, label: 'Biblias fueron entregadas a niños, adolescentes y jóvenes' },
+
+  //{ value: 6.5, suffix: ' mill', label: 'Peticiones de Ayuda atendidas en el Teléfono y Chat desde 1994' },
 ];
 
 
@@ -27,7 +29,7 @@ const Impacto = () => {
     
             <div>
               <p className="text-4xl font-bold border-b-4 border-orange-one p-2 inline">Impacto</p>
-              <p className="py-6">Conoce los logros que se han desarrollado</p>
+              <p className="py-6">Conoce los logros que se han desarrollado en la gestión 2024</p>
             </div>
     
             {/*<div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">

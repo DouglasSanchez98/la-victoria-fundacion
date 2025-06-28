@@ -5,9 +5,9 @@ import VideoExampleComp from './components/VideoExampleComp';
 import ResponsiveCarousel from './components/ResponsiveCarousel';
 import About from './components/About';
 import Programas from './components/Programas';
-import Contact from './components/Contact';
 import Donaciones from './components/Donaciones';
 import Impacto from './components/Impacto';
+import Contacto from './components/Contacto';
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
       <Programas/>
       <Donaciones/>
       <Impacto/>
-      <Contact/>
+      <Contacto/>
       
     </div>
   );
