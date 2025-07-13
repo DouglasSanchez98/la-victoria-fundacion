@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
 import VideoExampleComp from './components/VideoExampleComp';
@@ -8,6 +7,7 @@ import Programas from './components/Programas';
 import Donaciones from './components/Donaciones';
 import Impacto from './components/Impacto';
 import Contacto from './components/Contacto';
+import MisionValores from './components/MisionValores';
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
       <VideoExampleComp/>
       <ResponsiveCarousel/>
       <About/>
+      <MisionValores/>
       <Programas/>
       <Donaciones/>
       <Impacto/>

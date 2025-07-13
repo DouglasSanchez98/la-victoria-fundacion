@@ -3,7 +3,7 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 
-import { Navigation, Autoplay,Pagination,Scrollbar } from 'swiper/modules'
+import { Autoplay,Pagination,Scrollbar } from 'swiper/modules'
 
 
 import banner1 from '../assets/banner1.png'

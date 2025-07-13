@@ -3,6 +3,8 @@ import { FaBars, FaTimes } from "react-icons/fa"
 import { Link } from 'react-scroll';
 import logofundacion from '../assets/laVictoriaLogo.png';
 import ReactWhatsapp from 'react-whatsapp';
+//Para subir el código a una url de prueba como gitpages se debe configurar lo siguiente
+// en package.json   "homepage": "https://douglassanchez98.github.io/la-victoria-fundacion",
 
 
 const NavBar = () => {

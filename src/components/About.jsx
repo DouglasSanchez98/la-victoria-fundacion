@@ -1,7 +1,7 @@
 import React,{ useEffect, useState } from 'react'
 //import { TypeAnimation } from 'react-type-animation'
-import niños from '../assets/niños.jpg'
-import niñas from '../assets/niñas.jpg'
+import niños from '../assets/ninos.jpg'
+import niñas from '../assets/ninas.jpg'
 import fondo from '../assets/fondoQuienesSomos.jpg'
 // Para usar si necesito degradar colores className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white "
 const AboutRamos = () => {

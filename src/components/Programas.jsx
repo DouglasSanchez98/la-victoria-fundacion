@@ -11,15 +11,11 @@ import utiles1 from '../assets/entregaUtiles1.jpg';
 import viveres from '../assets/entregaViveres.jpg';
 import musica from '../assets/claseMusica.jpg';
 import feriaSalud from '../assets/feriaSalud.jpg';
-import revisionMedica from '../assets/revisionMédica.jpg';
+import revisionMedica from '../assets/revisionMed.jpg';
 import fondoProgramas from '../assets/fondoProgramas.jpg';
 
 // Imágenes para Coverflow
-import ima1 from '../assets/niños.jpg';
-import ima2 from '../assets/niños.jpg';
-import ima3 from '../assets/grupoJovenes.png';
-import ima4 from '../assets/grupoNiños.jpg';
-import ima5 from '../assets/niños.jpg';
+
 import almuerzo from '../assets/almuerzo.jpg';
 import poleras from '../assets/entregaPoleras.jpg';
 import navidad from '../assets/entregaNavidad.jpg';
@@ -100,7 +96,7 @@ const Programas = () => {
       image: padres,
     },
     {
-      title: 'Almuerzo',
+      title: 'Devocional en Campamento',
       category: 'Fundación la Victoria',
       location: 'Fundación la Victoria',
       image: campamento,
